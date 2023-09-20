@@ -3,3 +3,5 @@ Rozdział I
 To jest wstęp do książki 
 ................
 limes inferior
+
+Poprawka 1
